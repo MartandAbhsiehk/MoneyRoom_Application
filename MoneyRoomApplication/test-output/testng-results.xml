@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41896" started-at="2018-09-11T12:22:59Z" finished-at="2018-09-11T12:23:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41896" started-at="2018-09-11T12:22:59Z" finished-at="2018-09-11T12:23:41Z">
+      <class name="com.moneyroom.test.regression.ReturnCollectorTourFundVerification">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.moneyroom.test.regression.ReturnCollectorTourFundVerification@5622fdf]" name="preCondition" is-config="true" duration-ms="11883" started-at="2018-09-11T12:22:59Z" finished-at="2018-09-11T12:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="ReturnCollectorTourFundTest()[pri:0, instance:com.moneyroom.test.regression.ReturnCollectorTourFundVerification@5622fdf]" name="ReturnCollectorTourFundTest" duration-ms="29960" started-at="2018-09-11T12:23:11Z" finished-at="2018-09-11T12:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReturnCollectorTourFundTest -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.moneyroom.test.regression.ReturnCollectorTourFundVerification@5622fdf]" name="postCondition" is-config="true" duration-ms="14" started-at="2018-09-11T12:23:41Z" finished-at="2018-09-11T12:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.moneyroom.test.regression.ReturnCollectorTourFundVerification -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
